@@ -1,7 +1,6 @@
 # Bug-test
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+Reproduction of bug logged at https://github.com/ember-cli/ember-cli/issues/4285
 
 ## Prerequisites
 
